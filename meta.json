@@ -1,8 +1,9 @@
 {
 	"prompts": {
-		"name": {
+		"appName": {
 			"message": "App name",
-			"type": "string"
+			"type": "string",
+			"default": "My App"
 		},
 		"description": {
 			"message": "Description",
