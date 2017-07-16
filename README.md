@@ -1,5 +1,10 @@
 # vue-cordova
 > A Vue template integrated with Cordova for creating hybrid apps.
+## Pre-requisites
+You need to have *vue-cli* installed globally:
+```bash
+npm install -g vue-cli
+```
 ## Creating
 ```bash
 vue init heliojuniorkroger/vue-cordova my-app
