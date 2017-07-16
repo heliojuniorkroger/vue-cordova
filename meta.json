@@ -1,5 +1,8 @@
 {
 	"prompts": {
+		"name": {
+			"message": "Package name"
+		},
 		"appName": {
 			"message": "App name",
 			"type": "string",
@@ -11,7 +14,7 @@
 			"default": "An awesome app built with Vue and Cordova."
 		},
 		"packageName": {
-			"message": "Package name",
+			"message": "Cordova application name",
 			"type": "string",
 			"default": "com.myapp"
 		},
