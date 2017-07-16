@@ -1,0 +1,23 @@
+{
+	"prompts": {
+		"name": {
+			"message": "App name",
+			"type": "string"
+		},
+		"description": {
+			"message": "Description",
+			"type": "string",
+			"default": "An awesome app built with Vue and Cordova."
+		},
+		"packageName": {
+			"message": "Package name",
+			"type": "string",
+			"default": "com.myapp"
+		},
+		"author": {
+			"message": "Author",
+			"type": "string"
+		}
+	},
+	"completeMessage": "Well done! The project has been created."
+}
