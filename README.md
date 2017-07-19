@@ -34,5 +34,10 @@ npm run ios
 ## Building the app
 To build the app, just run:
 ```bash
+npm run build android
+npm run build ios
+```
+Or just:
+```bash
 npm run build
 ```
