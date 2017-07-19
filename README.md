@@ -32,7 +32,7 @@ npm run ios
 ```
 (This will automaticly build the Vue application and run using the Cordova CLI)
 ## Building the app
-To build the app, just run:
+To build the app, run:
 ```bash
 npm run build android
 npm run build ios
