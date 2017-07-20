@@ -6,8 +6,6 @@
         "dev": "node build/dev-server.js",
         "start": "node build/dev-server.js",
         "build": "node build/build.js && cordova build",
-        "build android": "node build/build.js && cordova build android",
-        "build ios": "node build/build.js && cordova build ios",
         "android": "node build/build.js && cordova run android",
         "ios": "node build/build.js && cordova run ios"
     },
